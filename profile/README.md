@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tarateel-alquran/.github/main/assets/org-header.png" alt="Tarateel AlQuran — ترتيل القرآن" width="100%">
+  <img src="https://raw.githubusercontent.com/tarateel-alquran/.github/main/assets/org-header.png" alt="Tarateel AlQuran — تراتيل القرآن" width="100%">
 </p>
 
-<h1 align="center">Tarateel AlQuran · ترتيل القرآن</h1>
+<h1 align="center">Tarateel AlQuran · تراتيل القرآن</h1>
 
 <p align="center">
   <em>Listen to the Quran, beautifully — 270+ reciters, offline downloads, playlists, and Siri, in English and Arabic.</em>
