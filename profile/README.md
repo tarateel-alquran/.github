@@ -20,10 +20,14 @@
 - **Fast is a feature** — instant launch, precomputed responses, offline-first everywhere.
 - **One codebase, many surfaces** — the same packages ship the full app, an embeddable mini app, and native macOS.
 
+## Made by
+
+**[FarouK](https://github.com/0xifarouk)** · Creator & Maintainer — the mind and hands behind Tarateel AlQuran since the first release.
+
 ---
 
 <p align="center">
-  Audio library by <a href="https://mp3quran.net">mp3quran.net</a> · Original app by FarouK
+  Audio library by <a href="https://mp3quran.net">mp3quran.net</a>
   <br><br>
   <em>اذكرونا بدعوة عن ظهر غيب</em>
 </p>
